@@ -1,0 +1,17 @@
+jieba~=0.42.1
+xlrd~=2.0.1
+nanoid
+oss2
+mq_http_sdk~=1.0.3
+tenacity
+colorama
+opencv-contrib-python
+face_recognition
+segment_anything
+requests
+pillow
+numpy
+pydantic
+fastapi
+gradio
+torchvision
